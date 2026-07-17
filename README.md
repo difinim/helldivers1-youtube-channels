@@ -7,7 +7,7 @@ Suggest yours too, and other requests [here](https://github.com/difinim/helldive
 
 ## Acronyms & Abbreviations
 - RS: Retaliation strike
-- RG: Proving grounds
+- PG: Proving grounds
 - RM: Regular missions
 - LS: Live Streams
 - FM: Funny Momments
