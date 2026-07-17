@@ -62,7 +62,7 @@ Tags: RS
 Tags: RS, PG
 
 
-### Sunya (Sunya, Sunyata)
+### Sunya (Sunyata)
 [https://www.youtube.com/@SunyataHD1](https://www.youtube.com/@SunyataHD1)
 
 Tags: RS
@@ -115,13 +115,20 @@ Tags: RS, RM, Challenges
 
 Tags: RS, PG
 
+
 ### Super Earth Citizen (darije)
 [https://www.youtube.com/@YellowHelldiver](https://www.youtube.com/@YellowHelldiver)
 
 Tags: RM, Tips
+
 
 ### bush
 [https://www.youtube.com/@campinbush](https://www.youtube.com/@campinbush)
 
 Tags: RS, Challenges
 
+
+### Diving in the Details (SlipperySammich)
+[https://www.youtube.com/@divinginthedetails](https://www.youtube.com/@divinginthedetails)
+
+Tags: Tips
