@@ -10,9 +10,9 @@ Suggest yours too, and other requests [here](https://github.com/difinim/helldive
 If you have a huge list of channels to be added, feel free to submit a pull request instead of submitting one-by-one.
 
 ## Plans for the future
-[ ] Use a crawler to get stats like # of subscribers and aggregated views and auto-update the list
-[ ] Create sublists like Featured, Guides, New
-[ ] Transform this in a website
+- [ ] Use a crawler to get stats like # of subscribers and aggregated views and auto-update the list
+- [ ] Create sublists like Featured, Guides, New
+- [ ] Transform this in a website
 
 ## Acronyms & Abbreviations
 - RS: Retaliation strike
