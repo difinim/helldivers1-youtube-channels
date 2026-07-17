@@ -12,7 +12,7 @@ Player's nicknames (if different):
 Channel link: 
 Tags (mark the boxes with `x` like `[x]`):
 - [ ] RS: Retaliation strike
-- [ ] RG: Proving grounds
+- [ ] PG: Proving grounds
 - [ ] RM: Regular missions
 - [ ] LS: Live Streams
 - [ ] FM: Funny Momments
