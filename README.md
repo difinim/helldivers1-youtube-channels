@@ -13,7 +13,7 @@ If you have a huge list of channels to be added, feel free to submit a pull requ
 - [ ] Use a crawler to get stats like # of subscribers, last update and aggregated views
 - [ ] Auto-update the list
 - [ ] Create sublists like Featured, Guides, New
-- [ ] Transform this in a website
+- [ ] Transform this in a website with features like ratings, embed videos, etc.
 
 ## Acronyms & Abbreviations
 - RS: Retaliation strike
