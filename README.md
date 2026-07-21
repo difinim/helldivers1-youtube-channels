@@ -142,3 +142,21 @@ Tags: RS, Challenges
 [https://www.youtube.com/@divinginthedetails](https://www.youtube.com/@divinginthedetails)
 
 Tags: Tips
+
+
+### cusman
+[https://www.youtube.com/@cusman](https://www.youtube.com/@cusman)
+
+Tags: RS, RM
+
+
+### DS Synchro
+[https://www.youtube.com/@DeathstalkerSynchro](https://www.youtube.com/@DeathstalkerSynchro)
+
+Tags: Tips
+
+
+### XXHAZ
+[https://www.youtube.com/@zahxxxxhaz](https://www.youtube.com/@zahxxxxhaz)
+
+Tags: RM, Challenges
