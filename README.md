@@ -173,12 +173,20 @@ Tags: RS, RM, FM, Tips, Glitches
 
 Tags: RS, Lives
 
+
 ### endlessdough (SiX)
 [https://www.youtube.com/@endlessdough](https://www.youtube.com/@endlessdough)
 
 Tags: RS
 
+
 ### BeatlesGun (BeatlesGUN)
 [https://www.youtube.com/@beatlesgun6195](https://www.youtube.com/@beatlesgun6195)
 
 Tags: RS
+
+
+### VHS (Maikeru)
+[https://www.youtube.com/@VHS-k7](https://www.youtube.com/@VHS-k7)
+
+Tags: RM
