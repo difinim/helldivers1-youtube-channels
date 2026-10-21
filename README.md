@@ -190,3 +190,9 @@ Tags: RS
 [https://www.youtube.com/@VHS-k7](https://www.youtube.com/@VHS-k7)
 
 Tags: RM
+
+
+### no DLC ([only AMMO + no DLC])
+[https://www.youtube.com/@no-dlc/videos](https://www.youtube.com/@no-dlc/videos)
+
+Tags: RS
