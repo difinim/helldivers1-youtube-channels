@@ -95,13 +95,6 @@ Tags: RS, LS, FM, Tips, Bugs, Glitches
 
 Tags: RS
 
-
-### Lein
-[https://www.youtube.com/channel/UCJfcgkj0FZNJHH87Af0Y1NQ](https://www.youtube.com/channel/UCJfcgkj0FZNJHH87Af0Y1NQ)
-
-Tags: Challenges, Tips
-
-
 ### Chang Cheng-Tai (changpiano)
 [https://www.youtube.com/@changcheng-tai5287](https://www.youtube.com/@changcheng-tai5287)
 
@@ -190,6 +183,11 @@ Tags: RS
 [https://www.youtube.com/@VHS-k7](https://www.youtube.com/@VHS-k7)
 
 Tags: RM
+
+### SomeDoggo
+[https://www.youtube.com/@SomeDoggo881](https://www.youtube.com/@SomeDoggo881)
+
+Tags: RS
 
 
 ### no DLC ([only AMMO + no DLC])
